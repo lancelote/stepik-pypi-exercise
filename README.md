@@ -1,3 +1,9 @@
+# stepik-pypi-exercise
+
+This code is from Stepik [Python PyPI package publication](https://stepik.org/course/Python-PyPI-package-publication-2887) course. Solely for future references.
+
+## Final Step
+
 This final lesson contains instructions on how to push the package you created during this course to PyPI.
 
 *If you want to publish this package, don't forget to change its name, as stepik_exercise is already a PyPI package.*
