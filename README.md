@@ -14,7 +14,7 @@ For this step, you will need [Twine](https://pypi.python.org/pypi/twine) to publ
 sudo apt install twine
 ```
 
-First, you need to register at [PyPI](https://pypi.python.org/pypi?%3Aaction=register_form) and [PyPI](https://testpypi.python.org/pypi) test. PyPI is the main index that pip uses when you run
+First, you need to register at [PyPI](https://pypi.python.org/pypi?%3Aaction=register_form) and [PyPI test](https://testpypi.python.org/pypi). PyPI is the main index that pip uses when you run
 
 ```bash
 pip install
