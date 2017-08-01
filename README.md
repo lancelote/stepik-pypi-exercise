@@ -8,13 +8,13 @@ This final lesson contains instructions on how to push the package you created d
 
 *If you want to publish this package, don't forget to change its name, as stepik_exercise is already a PyPI package.*
 
-For this step, you will need [https://pypi.python.org/pypi/twine Twine] to publish your package safely.
+For this step, you will need [Twine](https://pypi.python.org/pypi/twine) to publish your package safely.
 
 ```bash
 sudo apt install twine
 ```
 
-First, you need to register at [https://pypi.python.org/pypi?%3Aaction=register_form PyPI] and [https://testpypi.python.org/pypi PyPI] test. PyPI is the main index that pip uses when you run
+First, you need to register at [PyPI](https://pypi.python.org/pypi?%3Aaction=register_form) and [PyPI](https://testpypi.python.org/pypi) test. PyPI is the main index that pip uses when you run
 
 ```bash
 pip install
